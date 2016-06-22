@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\bar_find.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\bar_find.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\dlg_text.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\dlg_text.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pdf_layout.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pdf_layout.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pdf_fragment.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pdf_fragment.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pdf_curl.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pdf_curl.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pop_view.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pop_view.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\dlg_note.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\dlg_note.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\bar_annot.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\bar_annot.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pdf_nav.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pdf_nav.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\item_outline.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\item_outline.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\bar_cmd.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\bar_cmd.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\bar_seek.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\bar_seek.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\dlg_pswd.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\dlg_pswd.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pop_edit.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pop_edit.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\pop_combo.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\pop_combo.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\dlg_outline.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\dlg_outline.xml"
+    },
+    {
+        "merged": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\build\\intermediates\\res\\merged\\release\\layout\\bar_act.xml",
+        "source": "E:\\CreativeXperts\\IshaFoundationStudio\\ViewLib\\src\\main\\res\\layout\\bar_act.xml"
+    }
+]
